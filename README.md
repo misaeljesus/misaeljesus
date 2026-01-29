@@ -1,18 +1,27 @@
-<div align="center">
+<h1 align="center">Misael Jesús Flórez Anave</h1>
+<p align="center"><em>— Technology · Strategy · Systems —</em></p>
+<hr>
 
-# Misael Jesús Flórez Anave 💼
-
-### Tech Entrepreneur • Business Strategist • AI | FinTech | Web3
-
+<p align="center">
 <a href="https://www.linkedin.com/in/misaeljesus/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:tuemail@email.com">
+  <img src="https://img.shields.io/badge/Contact-Direct-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Mindset-Long--Term-1F2937?style=for-the-badge"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Approach-Business--First-1F2937?style=for-the-badge"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Execution-Relentless-1F2937?style=for-the-badge"/>
+</a>
+</p>
 
-<img src="https://img.shields.io/badge/%20Maker%20Mindset-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Business%20First-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Execution%20Only-00E5FF?style=for-the-badge" />
+<hr>
 
-</div>
 
 ---
 
@@ -47,28 +56,29 @@ Me muevo en la intersección de:
 
 ---
 
-## 📊 Focus Areas & Value Creation
+## 📊 Executive Dashboard — Focus Areas
 
 <div align="center">
 
-AI & Automation  
-████████████████░░ 90%
+📈 **Business Strategy**  
+![Business Strategy](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰%20%7C%2095%25-00C2D6?style=for-the-badge&label=FOCUS&labelColor=0D1117)
 
-FinTech Systems  
-███████████████░░░ 85%
+🤖 **AI & Automation**  
+![AI & Automation](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▱%20%7C%2090%25-00C2D6?style=for-the-badge&label=FOCUS&labelColor=0D1117)
 
-Business Strategy  
-█████████████████░ 95%
+🚀 **Product Execution**  
+![Product Execution](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▱%20%7C%2090%25-00C2D6?style=for-the-badge&label=FOCUS&labelColor=0D1117)
 
-Web3 Infrastructure  
-████████████░░░░░░ 70%
+💳 **FinTech Systems**  
+![FinTech Systems](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▱▱%20%7C%2085%25-00C2D6?style=for-the-badge&label=FOCUS&labelColor=0D1117)
 
-Product Execution  
-████████████████░░ 90%
+🌐 **Web3 Infrastructure**  
+![Web3 Infrastructure](https://img.shields.io/badge/▰▰▰▰▰▰▱▱▱▱%20%7C%2070%25-00C2D6?style=for-the-badge&label=FOCUS&labelColor=0D1117)
 
 </div>
 
-I focus on building leverage — systems, automation and scalable business models that create asymmetric outcomes.
+> Clarity wins: focus, execution, and leverage that compound.
+
 
 
 ## 🤝 Let’s Talk Business
